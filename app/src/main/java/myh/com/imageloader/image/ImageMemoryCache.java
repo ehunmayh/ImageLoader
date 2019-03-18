@@ -12,7 +12,7 @@ import java.util.Set;
 /*
     第一级 内存
     
-    LRU::最近最少使用算法  least recent used     cache
+    LRU::最近最少使用算法
     
      我们的cache有上限 ，那么当我们达到存储上限之后，还要加载新的图片，该怎么办？
      

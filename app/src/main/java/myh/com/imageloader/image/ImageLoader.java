@@ -7,7 +7,13 @@ import android.util.Log;
 import android.widget.ImageView;
 
 /**
- * Created by Administrator on 2016/5/8.
+ * Copyright (c) 2018 All Rights Reserved
+ * <p>
+ * 作者：马彦虎  Email：1184265546@qq.com
+ * 创建时间： 2019/3/18.
+ * 修改历史:
+ * 修改日期         作者        版本        描述说明
+ * </p>
  */
 public class ImageLoader {
     public static final String TAG="ImageLoader------";

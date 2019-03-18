@@ -16,6 +16,16 @@ import java.io.InputStream;
 import java.util.Arrays;
 import java.util.Comparator;
 
+/**
+ * Copyright (c) 2018 All Rights Reserved
+ * <p>
+ * 作者：马彦虎  Email：1184265546@qq.com
+ * 创建时间： 2019/3/18.
+ * 修改历史:
+ * 修改日期         作者        版本        描述说明
+ * </p>
+ */
+
 public class ImageFileCache {
     //SD卡缓存目录 "/sdcard/Android/data/<application package>/cache";  这样的缓存目录会跟着App的卸载而删除
     private static  String CACHDIR ;
